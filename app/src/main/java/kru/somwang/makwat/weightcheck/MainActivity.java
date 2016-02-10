@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
             Intent objIntent = new Intent(MainActivity.this, RegisterActivity.class);
             startActivity(objIntent);
         } //if
+        objCursor.close();
 
     } //CheckRegis
 }// Main Class
