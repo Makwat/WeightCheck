@@ -41,6 +41,7 @@ public class RegisterActivity extends AppCompatActivity {
             Toast.makeText(RegisterActivity.this, getResources().getString(R.string.have_space),
                     Toast.LENGTH_SHORT).show();
 
+
         }else {
             //no space
             MyManage objMyManage = new MyManage(this);
