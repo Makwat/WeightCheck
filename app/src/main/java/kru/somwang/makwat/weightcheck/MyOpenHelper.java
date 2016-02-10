@@ -20,9 +20,7 @@ public class MyOpenHelper extends SQLiteOpenHelper{
             "_id integer primary key, " +
             "User text, " +
             "Password text, " +
-            "Name text, " +
-            "Lastname text, " +
-            "email text);";
+            "Name text); ";
 
     public MyOpenHelper(Context context) {
         super(context, database_name, null, database_version);

@@ -2,5 +2,6 @@
     <string name="app_name">WeightCheck</string>
 
     <string name="regis">ลงทะเบียนใช้งาน</string>
-
+    <string name="have_space">เห้ย!!! กรอกให้ครบทุกช่องดิ!!!</string>
+    <string name="success_regis">ลงทะเบียนเรียบร้อยแล้วฮับผม</string>
 </resources>
