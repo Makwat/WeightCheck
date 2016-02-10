@@ -49,6 +49,7 @@ public class RegisterActivity extends AppCompatActivity {
                     getResources().getString(R.string.success_regis),
                     Toast.LENGTH_SHORT).show();
             finish();
+
         } //if
 
     } //Click Regis
